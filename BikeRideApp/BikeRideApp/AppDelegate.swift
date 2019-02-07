@@ -1,7 +1,6 @@
 //
 //  AppDelegate.swift
 //  BikeRideApp
-//
 //  Created by Simran Dhillon on 8/1/18.
 //  Copyright © 2018 Simran Dhillon. All rights reserved.
 //
